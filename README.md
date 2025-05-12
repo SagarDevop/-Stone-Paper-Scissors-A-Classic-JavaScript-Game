@@ -16,12 +16,10 @@ A simple **Stone Paper Scissors** game where you play against the computer. Buil
 - The computer will randomly pick a move.  
 - The game will instantly show **who won!**  
 
-## 💻 How to Run?  
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/SagarDevop/stone-paper-scissors.git
+
+  
 🌐 Live Demo
-Live Demo Here (http://127.0.0.1:5500/in.html)
+Live Demo Here (https://stone-paper-scissors-a-classic.onrender.com)
 
 🛠 Technologies Used
 HTML – Game structure
